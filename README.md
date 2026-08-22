@@ -14,7 +14,7 @@
 
 ## 🚀 Coding Activity
 
-> 🧑‍💻 Full-time developer • Building things with TypeScript & Vue
+> 🧑‍💻 Full-time developer • Building things with TypeScript & React
 ```txt
 Total Time: 508 hrs 2 mins
 
@@ -35,4 +35,4 @@ TSConfig     38 mins               ░░░░░░░░░░░░░░░
 
 🔥 500+ hours of coding tracked  
 ⚡ TypeScript is my primary language  
-💚 React.ts is my favorite framework
+💚 React is my favorite framework

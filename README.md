@@ -11,5 +11,13 @@
 ## ⏱️ WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   12 hrs 12 mins        ███████████████████████▓░   94.40 %
+JavaScript   43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 

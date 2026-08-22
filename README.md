@@ -12,6 +12,9 @@
 
 <!--START_SECTION:waka-->
 
+## 🚀 Coding Activity
+
+> 🧑‍💻 Full-time developer • Building things with TypeScript & Vue
 ```txt
 Total Time: 508 hrs 2 mins
 
@@ -28,4 +31,8 @@ TSConfig     38 mins               ░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+### 📊 My Coding Stats
 
+🔥 500+ hours of coding tracked  
+⚡ TypeScript is my primary language  
+💚 React.ts is my favorite framework

@@ -8,5 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-baqban-rezaee)
 
 
-[![Mohammad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad_r97)](https://github.com/mohammadr1997)
+## ⏱️ WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 

@@ -12,22 +12,19 @@
 
 <!--START_SECTION:waka-->
 
-## 🚀 Coding Activity
-
-> 🧑‍💻 Full-time developer • Building things with TypeScript & React
 ```txt
-Total Time: 508 hrs 2 mins
+Total Time: 512 hrs 43 mins
 
-TypeScript   363 hrs 3 mins        █████████████████▓░░░░░░░   71.28 %
-JavaScript   66 hrs 28 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Vue.js       33 hrs 44 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-JSON         15 hrs 26 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-CSS          12 hrs 9 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-HTML         9 hrs 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Text         3 hrs 54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   366 hrs 41 mins       ██████████████████░░░░░░░   71.34 %
+JavaScript   67 hrs 19 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Vue.js       33 hrs 44 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+JSON         15 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+CSS          12 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+HTML         9 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Text         3 hrs 54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Bash         1 hr 21 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Other        1 hr 17 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Bash         1 hr 16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-TSConfig     38 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TSConfig     38 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
